@@ -1,0 +1,1315 @@
+{
+  "updated_at": "2026-05-30T10:03:19.852224-04:00",
+  "companies": {
+    "AAL": {
+      "name": "American Airlines Group",
+      "summary": "American Airlines Group Inc. is a holding company that owns and operates American Airlines, Inc., a major airline in the United States. The company was formed in 1982 and is headquartered in Fort Worth, Texas. Its primary operations include airline operations, with subsidiaries including Envoy Aviation Group Inc., PSA Airlines, Inc., and Piedmont Airlines, Inc.",
+      "news_role": null,
+      "contextual_peers": [
+        "UAL",
+        "DIS",
+        "COO",
+        "TMO",
+        "WBD"
+      ],
+      "contextual_peer_names": {
+        "UAL": "United Airlines",
+        "DIS": "Walt Disney",
+        "COO": "Cooper",
+        "TMO": "Thermo Fisher Scientific",
+        "WBD": "Warner Bros Discovery"
+      },
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [
+        "ALK",
+        "UAL",
+        "LUV",
+        "DAL",
+        "FDX"
+      ],
+      "industry_peer_names": {
+        "ALK": "Alaska Air Group",
+        "UAL": "United Airlines",
+        "LUV": "Southwest Airlines",
+        "DAL": "Delta Air Lines",
+        "FDX": "FedEx"
+      },
+      "industry_peer_theme": "Airline Consolidation",
+      "filing_date": null,
+      "enriched_at": "2026-05-30T09:25:05.087780-04:00"
+    },
+    "BA": {
+      "name": "Boeing",
+      "summary": "Boeing is a major aerospace firm that operates in three reportable segments: Commercial Airplanes, Defense, Space & Security, and Global Services. It develops, produces, and markets commercial jet aircraft and defense systems. The company is a leading producer of commercial aircraft and offers a family of commercial jetliners.",
+      "news_role": "Boeing is currently positioned as a major player in the commercial aircraft market, having secured a major order of 200 aircraft from China valued at approximately $23 billion.",
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [
+        "TDG",
+        "HXL",
+        "TXT",
+        "KRMN",
+        "LOAR"
+      ],
+      "industry_peer_names": {
+        "TDG": "TransDigm Group",
+        "HXL": "Hexcel",
+        "TXT": "Textron",
+        "KRMN": "Karman",
+        "LOAR": "Loar"
+      },
+      "industry_peer_theme": "Aerospace Manufacturing",
+      "filing_date": null,
+      "enriched_at": "2026-05-30T09:25:11.432679-04:00"
+    },
+    "BAC": {
+      "name": "Bank of America",
+      "summary": "Bank of America is a Delaware corporation and a bank holding company, serving individual consumers, small- and middle-market businesses, institutions, and governments. The company aims to streamline its organizational structure and reduce complexity and costs. It is one of the world's largest financial institutions.",
+      "news_role": "Bank of America is currently positioned in financial news as a major financial institution, with a recent survey indicating that 30% of respondents would not change their summer travel plans due to higher gas prices.",
+      "contextual_peers": [
+        "GS",
+        "MCD",
+        "MCO",
+        "CARR",
+        "NVDA"
+      ],
+      "contextual_peer_names": {
+        "GS": "Goldman Sachs Group",
+        "MCD": "McDonald's",
+        "MCO": "Moody's",
+        "CARR": "Carrier Global",
+        "NVDA": "Nvidia"
+      },
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [
+        "MS",
+        "WTFC",
+        "ZION",
+        "CFG",
+        "FHN"
+      ],
+      "industry_peer_names": {
+        "MS": "Morgan Stanley",
+        "WTFC": "Wintrust Financial",
+        "ZION": "Zions Bancorporation NA",
+        "CFG": "Citizens Financial Group",
+        "FHN": "First Horizon"
+      },
+      "industry_peer_theme": "Bancshares",
+      "filing_date": null,
+      "enriched_at": "2026-05-30T09:25:18.766972-04:00"
+    },
+    "CARR": {
+      "name": "Carrier Global",
+      "summary": "Carrier Global is a global leader in intelligent climate and energy solutions, providing differentiated, digitally enabled lifecycle solutions to customers through its industry-leading brands. The company offers innovative heating, cooling, and cold chain solutions, as well as related building services. Its goal is to create long-term shareowner value by investing strategically.",
+      "news_role": null,
+      "contextual_peers": [
+        "NVDA",
+        "MSFT",
+        "TSLA",
+        "JPM"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "MSFT": "Microsoft",
+        "TSLA": "Tesla",
+        "JPM": "JPMorgan Chase"
+      },
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [
+        "JCI",
+        "LII",
+        "TT",
+        "DOV",
+        "WSO"
+      ],
+      "industry_peer_names": {
+        "JCI": "Johnson Controls International",
+        "LII": "Lennox International",
+        "TT": "Trane Technologies",
+        "DOV": "Dover",
+        "WSO": "Watsco"
+      },
+      "industry_peer_theme": "HVAC and Building",
+      "filing_date": null,
+      "enriched_at": "2026-05-30T09:25:24.765117-04:00"
+    },
+    "COIN": {
+      "name": "Coinbase Global",
+      "summary": "Coinbase Global is a cryptocurrency exchange platform aiming to increase economic freedom by providing a trusted platform for trading various assets, including stocks and commodities. The company seeks to create a comprehensive experience for retail users, institutions, and developers. Its mission is to update the century-old financial system.",
+      "news_role": "Coinbase Global is currently positioned in financial news due to its involvement with the Coalition for Prediction Markets, which faces regulatory uncertainty surrounding prediction markets.",
+      "contextual_peers": [
+        "HOOD",
+        "FLUT",
+        "GOOG",
+        "CRM",
+        "ORCL"
+      ],
+      "contextual_peer_names": {
+        "HOOD": "Robinhood Markets",
+        "FLUT": "Flutter Entertainment",
+        "GOOG": "Alphabet",
+        "CRM": "Salesforce",
+        "ORCL": "Oracle"
+      },
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [
+        "TW",
+        "BLSH",
+        "CRCL",
+        "MSTR",
+        "SOFI"
+      ],
+      "industry_peer_names": {
+        "TW": "Tradeweb Markets",
+        "BLSH": "Bullish",
+        "CRCL": "Circle Internet Group",
+        "MSTR": "Strategy",
+        "SOFI": "SoFi Technologies"
+      },
+      "industry_peer_theme": "Digital Payments",
+      "filing_date": null,
+      "enriched_at": "2026-05-30T09:25:31.635134-04:00"
+    },
+    "COO": {
+      "name": "Cooper",
+      "summary": "Cooper Companies, Inc. is a leading global medical device company that sells products in over 130 countries, positively impacting over fifty million lives each year. The company operates through two business segments, CooperVision and CooperSurgical, which elevate standards of care in the fields of vision, fertility, and women's health. Cooper's products and services are used to help people experience life's beautiful moments.",
+      "news_role": null,
+      "contextual_peers": [
+        "UAL",
+        "AAL",
+        "DIS"
+      ],
+      "contextual_peer_names": {
+        "UAL": "United Airlines",
+        "AAL": "American Airlines Group",
+        "DIS": "Walt Disney"
+      },
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [
+        "ALGN",
+        "DHR",
+        "ZBH",
+        "SYK",
+        "TECH"
+      ],
+      "industry_peer_names": {
+        "ALGN": "Align Technology",
+        "DHR": "Danaher",
+        "ZBH": "Zimmer Biomet Holdings,",
+        "SYK": "Stryker",
+        "TECH": "Bio-Techne"
+      },
+      "industry_peer_theme": "Medical Device Technology",
+      "filing_date": null,
+      "enriched_at": "2026-05-30T09:25:38.090473-04:00"
+    },
+    "CRM": {
+      "name": "Salesforce",
+      "summary": "Salesforce is a global leader in customer relationship management (CRM) technology, providing a unified platform to help organizations become agile enterprises. The company's AI-powered platform unites its offerings, spanning sales, service, marketing, and more, to create a complete view of customers. This platform enables trusted enterprise execution.",
+      "news_role": null,
+      "contextual_peers": [
+        "ORCL",
+        "MSFT"
+      ],
+      "contextual_peer_names": {
+        "ORCL": "Oracle",
+        "MSFT": "Microsoft"
+      },
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [
+        "FOUR",
+        "SNOW",
+        "NOW",
+        "RNG",
+        "EXLS"
+      ],
+      "industry_peer_names": {
+        "FOUR": "Shift4 Payments,",
+        "SNOW": "Snowflake",
+        "NOW": "ServiceNow",
+        "RNG": "RingCentral",
+        "EXLS": "Exlservice"
+      },
+      "industry_peer_theme": "Cloud Software Services",
+      "filing_date": null,
+      "enriched_at": "2026-05-30T09:25:43.790942-04:00"
+    },
+    "DIS": {
+      "name": "Walt Disney",
+      "summary": "Walt Disney is a diversified worldwide entertainment company with operations in three segments: Entertainment, Sports and Experiences. The Entertainment segment includes global film and episodic content production and distribution activities. The company produces content for various networks, including ABC, Disney, Freeform, FX, and National Geographic.",
+      "news_role": "Disney is currently under investigation by the FCC regarding its diversity, equity, and inclusion practices, which may impact its financial performance.",
+      "contextual_peers": [
+        "UAL",
+        "AAL",
+        "COO",
+        "TMO"
+      ],
+      "contextual_peer_names": {
+        "UAL": "United Airlines",
+        "AAL": "American Airlines Group",
+        "COO": "Cooper",
+        "TMO": "Thermo Fisher Scientific"
+      },
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [
+        "CMCSA",
+        "HAS",
+        "VSNT",
+        "WBD",
+        "MAR"
+      ],
+      "industry_peer_names": {
+        "CMCSA": "Comcast",
+        "HAS": "Hasbro",
+        "VSNT": "Versant Media Group",
+        "WBD": "Warner Bros Discovery",
+        "MAR": "Marriott International"
+      },
+      "industry_peer_theme": "Entertainment Media",
+      "filing_date": null,
+      "enriched_at": "2026-05-30T09:25:50.627935-04:00"
+    },
+    "FLUT": {
+      "name": "Flutter Entertainment",
+      "summary": "Flutter Entertainment is a global gaming company that operates through its subsidiaries, including Paddy Power and FanDuel. The company was formed through the merger of three independent bookmakers and has since expanded into other gaming markets. It has also invested in market-making on third-party platforms.",
+      "news_role": "Flutter Entertainment is positioned as a major player in the gaming industry, with its subsidiaries Paddy Power and FanDuel continuing to operate despite regulatory uncertainty.",
+      "contextual_peers": [
+        "HOOD",
+        "COIN",
+        "GOOG",
+        "CRM",
+        "ORCL"
+      ],
+      "contextual_peer_names": {
+        "HOOD": "Robinhood Markets",
+        "COIN": "Coinbase Global",
+        "GOOG": "Alphabet",
+        "CRM": "Salesforce",
+        "ORCL": "Oracle"
+      },
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [
+        "DKNG",
+        "CHDN",
+        "VICI",
+        "CZR",
+        "CME"
+      ],
+      "industry_peer_names": {
+        "DKNG": "Draftkings",
+        "CHDN": "Churchill Downs",
+        "VICI": "VICI Properties",
+        "CZR": "Caesars Entertainment",
+        "CME": "CME Group"
+      },
+      "industry_peer_theme": "Gaming and Entertainment",
+      "filing_date": null,
+      "enriched_at": "2026-05-30T09:25:57.822830-04:00"
+    },
+    "GOOG": {
+      "name": "Alphabet",
+      "summary": "Alphabet is a collection of businesses, with Google being the largest, and continues to invest in artificial intelligence (AI) and other moonshots. The company reports Google in two segments and all non-Google businesses as Other Bets. Alphabet is driven by its unconventional spirit and aims to tackle big problems.",
+      "news_role": "Alphabet is currently positioned in financial news due to a recent insider trading charge against a Google employee, who allegedly used confidential information to place bets on a prediction platform.",
+      "contextual_peers": [
+        "HOOD",
+        "COIN",
+        "FLUT",
+        "CRM",
+        "ORCL"
+      ],
+      "contextual_peer_names": {
+        "HOOD": "Robinhood Markets",
+        "COIN": "Coinbase Global",
+        "FLUT": "Flutter Entertainment",
+        "CRM": "Salesforce",
+        "ORCL": "Oracle"
+      },
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [
+        "META",
+        "RDDT",
+        "PINS",
+        "TTD",
+        "CNXC"
+      ],
+      "industry_peer_names": {
+        "META": "Meta Platforms",
+        "RDDT": "Reddit",
+        "PINS": "Pinterest",
+        "TTD": "Trade Desk",
+        "CNXC": "Concentrix"
+      },
+      "industry_peer_theme": "Digital Advertising",
+      "filing_date": null,
+      "enriched_at": "2026-05-30T09:26:05.163475-04:00"
+    },
+    "GS": {
+      "name": "Goldman Sachs Group",
+      "summary": "Goldman Sachs Group, Inc. is a global investment firm that provides investment banking, securities, asset management, and consumer and commercial banking services. The company operates in a resilient global economy, despite inflationary pressures and geopolitical concerns. Its business environment is impacted by central bank policy interest rate cuts.",
+      "news_role": null,
+      "contextual_peers": [
+        "MCO",
+        "BAC",
+        "CARR",
+        "NVDA",
+        "MSFT"
+      ],
+      "contextual_peer_names": {
+        "MCO": "Moody's",
+        "BAC": "Bank of America",
+        "CARR": "Carrier Global",
+        "NVDA": "Nvidia",
+        "MSFT": "Microsoft"
+      },
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [
+        "STWD",
+        "LNC",
+        "LCID",
+        "UNH",
+        "WAL"
+      ],
+      "industry_peer_names": {
+        "STWD": "Starwood Property Trust (Maryland)",
+        "LNC": "Lincoln National",
+        "LCID": "Lucid Group",
+        "UNH": "UnitedHealth Group",
+        "WAL": "Western Alliance Bancorp"
+      },
+      "industry_peer_theme": "Financial Services",
+      "filing_date": null,
+      "enriched_at": "2026-05-30T09:26:11.146204-04:00"
+    },
+    "HOOD": {
+      "name": "Robinhood Markets, Inc.",
+      "summary": "Robinhood Markets, Inc. is a financial services platform that aims to democratize finance for all by providing simple and convenient access to the financial system. The company uses technology to empower customers to achieve their financial goals through investing. Its mission is to make investing familiar and welcoming for everyone.",
+      "news_role": "Robinhood Markets is currently positioned in financial news as it unveiled tools allowing AI agents to trade stocks and make purchases on users' behalf, marking one of the first attempts to bring autonomous finance technology to ordinary investors.",
+      "contextual_peers": [
+        "COIN",
+        "FLUT",
+        "GOOG",
+        "CRM",
+        "ORCL"
+      ],
+      "contextual_peer_names": {
+        "COIN": "Coinbase Global",
+        "FLUT": "Flutter Entertainment",
+        "GOOG": "Alphabet",
+        "CRM": "Salesforce",
+        "ORCL": "Oracle"
+      },
+      "industry": "Security Brokers, Dealers & Flotation Companies",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "MS",
+        "IBKR",
+        "RJF",
+        "SF",
+        "MKTX"
+      ],
+      "industry_peer_names": {
+        "MS": "Morgan Stanley",
+        "IBKR": "Interactive Brokers Group",
+        "RJF": "Raymond James Financial",
+        "SF": "Stifel Financial",
+        "MKTX": "Marketaxess"
+      },
+      "industry_peer_theme": "Financial Services",
+      "filing_date": "2026-02-18",
+      "enriched_at": "2026-05-30T09:26:18.662307-04:00"
+    },
+    "HPE": {
+      "name": "Hewlett Packard Enterprise Co",
+      "summary": "Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. The company enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency. Its legacy dates back to a partnership founded in 1939 by William R. Hewlett and David Packard.",
+      "news_role": null,
+      "contextual_peers": [
+        "NVDA",
+        "MU",
+        "INTC"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "MU": "Micron Technology",
+        "INTC": "Intel"
+      },
+      "industry": "Computer & office Equipment",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "HPQ"
+      ],
+      "industry_peer_names": {
+        "HPQ": "HP"
+      },
+      "industry_peer_theme": "Technology Hardware",
+      "filing_date": "2025-12-18",
+      "enriched_at": "2026-05-30T09:26:24.883780-04:00"
+    },
+    "INTC": {
+      "name": "INTEL CORP",
+      "summary": "Intel Corp designs and manufactures semiconductor products, including CPUs, for global customers in various industries. These products are incorporated in computing and related end products and services. Intel markets and sells its products through a combination of direct sales and indirect channels.",
+      "news_role": null,
+      "contextual_peers": [
+        "MSFT",
+        "ORCL",
+        "CRM",
+        "NOW",
+        "MORN"
+      ],
+      "contextual_peer_names": {
+        "MSFT": "Microsoft",
+        "ORCL": "Oracle",
+        "CRM": "Salesforce",
+        "NOW": "ServiceNow",
+        "MORN": "Morningstar"
+      },
+      "industry": "Semiconductors & Related Devices",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "NVDA",
+        "MRVL",
+        "Q",
+        "TXN",
+        "MU"
+      ],
+      "industry_peer_names": {
+        "NVDA": "Nvidia",
+        "MRVL": "Marvell Technology",
+        "Q": "Qnity Electronics",
+        "TXN": "Texas Instruments",
+        "MU": "Micron Technology"
+      },
+      "industry_peer_theme": "Semiconductor Technology",
+      "filing_date": "2026-01-23",
+      "enriched_at": "2026-05-30T09:26:30.530078-04:00"
+    },
+    "JPM": {
+      "name": "JPMORGAN CHASE & CO",
+      "summary": "JPMorgan Chase & Co. is a leading financial services firm providing investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, and asset management. The firm serves millions of customers globally and has a market capitalization of over $450 billion. It is led by CEO Jamie Dimon, who has expressed interest in acquiring a large bank to expand its operations.",
+      "news_role": "As the largest U.S. bank, JPMorgan Chase is currently positioned in financial news as a potential acquirer, with CEO Jamie Dimon's interest in acquiring a large bank to expand its operations.",
+      "contextual_peers": [
+        "GS",
+        "MCD",
+        "MCO",
+        "BAC",
+        "CARR"
+      ],
+      "contextual_peer_names": {
+        "GS": "Goldman Sachs Group",
+        "MCD": "McDonald's",
+        "MCO": "Moody's",
+        "BAC": "Bank of America",
+        "CARR": "Carrier Global"
+      },
+      "industry": "National Commercial Banks",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "ZION",
+        "PNC",
+        "USB",
+        "WBS",
+        "WFC"
+      ],
+      "industry_peer_names": {
+        "ZION": "Zions Bancorporation NA",
+        "PNC": "PNC Financial Services Group",
+        "USB": "US Bancorp",
+        "WBS": "Webster Financial",
+        "WFC": "Wells Fargo"
+      },
+      "industry_peer_theme": "Bancshares",
+      "filing_date": "2026-02-13",
+      "enriched_at": "2026-05-30T09:26:38.901197-04:00"
+    },
+    "LHX": {
+      "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+      "summary": "L3Harris Technologies, Inc. is a defense industry company providing end-to-end technology solutions connecting space, air, land, sea, and cyber domains for national security. Its solutions have defense, civil government, and commercial applications, supporting customers in over 100 countries. The company's fiscal year ends on the Friday nearest December 31.",
+      "news_role": null,
+      "contextual_peers": [
+        "MSFT",
+        "CRM",
+        "ORCL",
+        "NOW",
+        "MORN"
+      ],
+      "contextual_peer_names": {
+        "MSFT": "Microsoft",
+        "CRM": "Salesforce",
+        "ORCL": "Oracle",
+        "NOW": "ServiceNow",
+        "MORN": "Morningstar"
+      },
+      "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "NOC",
+        "TDY"
+      ],
+      "industry_peer_names": {
+        "NOC": "Northrop Grumman",
+        "TDY": "Teledyne Technologies"
+      },
+      "industry_peer_theme": "Aerospace Defense",
+      "filing_date": "2026-02-12",
+      "enriched_at": "2026-05-30T09:26:45.397661-04:00"
+    },
+    "LOAR": {
+      "name": "Loar Holdings Inc.",
+      "summary": "Loar Holdings Inc. specializes in designing, manufacturing, and selling niche aerospace and defense components, with a focus on mission-critical, highly engineered solutions. Approximately 89% of 2025 net sales were derived from proprietary products, and 55% from aftermarket products. This company manufactures components for nearly every major aircraft platform in use today.",
+      "news_role": null,
+      "contextual_peers": [
+        "MSFT",
+        "CRM",
+        "ORCL",
+        "NOW",
+        "MORN"
+      ],
+      "contextual_peer_names": {
+        "MSFT": "Microsoft",
+        "CRM": "Salesforce",
+        "ORCL": "Oracle",
+        "NOW": "ServiceNow",
+        "MORN": "Morningstar"
+      },
+      "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "KRMN",
+        "TDG"
+      ],
+      "industry_peer_names": {
+        "KRMN": "Karman",
+        "TDG": "TransDigm Group"
+      },
+      "industry_peer_theme": "Medical Device Mergers",
+      "filing_date": "2026-03-02",
+      "enriched_at": "2026-05-30T09:26:51.668966-04:00"
+    },
+    "MCD": {
+      "name": "MCDONALDS CORP",
+      "summary": "McDonald's Corporation franchises and owns and operates McDonald's restaurants serving quality food and beverages in over 100 countries. Approximately 95% of its 45,356 restaurants were franchised at year-end 2025. The company's business structure and operations remained unchanged for the year ended December 31, 2025.",
+      "news_role": null,
+      "contextual_peers": [
+        "GS",
+        "MCO",
+        "BAC",
+        "CARR",
+        "NVDA"
+      ],
+      "contextual_peer_names": {
+        "GS": "Goldman Sachs Group",
+        "MCO": "Moody's",
+        "BAC": "Bank of America",
+        "CARR": "Carrier Global",
+        "NVDA": "Nvidia"
+      },
+      "industry": "Retail-Eating  Places",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "WING",
+        "QSR",
+        "YUM",
+        "TXRH"
+      ],
+      "industry_peer_names": {
+        "WING": "Wingstop",
+        "QSR": "Restaurant Brands International",
+        "YUM": "Yum! Brands",
+        "TXRH": "Texas Roadhouse"
+      },
+      "industry_peer_theme": "Fast Food",
+      "filing_date": "2026-02-24",
+      "enriched_at": "2026-05-30T09:26:57.974897-04:00"
+    },
+    "MCO": {
+      "name": "MOODYS CORP /DE/",
+      "summary": "Moody's Corporation provides data, insights, and innovative technologies to help customers develop a holistic view of their world and unlock opportunities. The company's offerings are distinguished by its vast proprietary and curated data and validated analytical models. Moody's helps customers navigate an increasingly complex risk landscape.",
+      "news_role": "Moody's is providing expert analysis on the potential economic impact of the ongoing war, citing the potential for consumers to become more cautious in their spending.",
+      "contextual_peers": [
+        "GS",
+        "MCD",
+        "BAC",
+        "CARR",
+        "NVDA"
+      ],
+      "contextual_peer_names": {
+        "GS": "Goldman Sachs Group",
+        "MCD": "McDonald's",
+        "BAC": "Bank of America",
+        "CARR": "Carrier Global",
+        "NVDA": "Nvidia"
+      },
+      "industry": "Services-Consumer Credit Reporting, Collection Agencies",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "SPGI",
+        "TRU"
+      ],
+      "industry_peer_names": {
+        "SPGI": "S&P Global",
+        "TRU": "TransUnion"
+      },
+      "industry_peer_theme": "Credit Rating Agencies",
+      "filing_date": "2026-02-18",
+      "enriched_at": "2026-05-30T09:27:05.127280-04:00"
+    },
+    "MKTX": {
+      "name": "MARKETAXESS HOLDINGS INC",
+      "summary": "MarketAxess Holdings Inc. operates electronic trading platforms delivering trading efficiency, liquidity, and cost savings to institutional clients across global fixed-income and other markets. The company focuses on the less electronified fixed-income markets, creating opportunities for growth. Its integrated approach combines trading protocols, execution solutions, data products, and analytics.",
+      "news_role": null,
+      "contextual_peers": [
+        "HOOD",
+        "COIN",
+        "FLUT",
+        "GOOG",
+        "CRM"
+      ],
+      "contextual_peer_names": {
+        "HOOD": "Robinhood Markets",
+        "COIN": "Coinbase Global",
+        "FLUT": "Flutter Entertainment",
+        "GOOG": "Alphabet",
+        "CRM": "Salesforce"
+      },
+      "industry": "Security Brokers, Dealers & Flotation Companies",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "VIRT",
+        "IBKR"
+      ],
+      "industry_peer_names": {
+        "VIRT": "Virtu Financial",
+        "IBKR": "Interactive Brokers Group"
+      },
+      "industry_peer_theme": "Financial Technology",
+      "filing_date": "2026-02-24",
+      "enriched_at": "2026-05-30T09:27:11.330141-04:00"
+    },
+    "MORN": {
+      "name": "Morningstar, Inc.",
+      "summary": "Morningstar, Inc. is a leading global provider of independent investment insights, offering a variety of products and solutions to empower investor success. Its mission is to deliver connected data, independent research, and investor-first tools to help investors in three key areas: portfolio strategies, market insights, and investment decisions. The company structures its business to remove frictions and drive up costs in the investment process.",
+      "news_role": null,
+      "contextual_peers": [
+        "MSFT",
+        "CRM",
+        "ORCL"
+      ],
+      "contextual_peer_names": {
+        "MSFT": "Microsoft",
+        "CRM": "Salesforce",
+        "ORCL": "Oracle"
+      },
+      "industry": "Investment Advice",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "JHG",
+        "LAZ",
+        "OWL",
+        "TROW",
+        "IVZ"
+      ],
+      "industry_peer_names": {
+        "JHG": "Janus Henderson Group",
+        "LAZ": "Lazard",
+        "OWL": "Blue Owl Capital",
+        "TROW": "T. Rowe Price Group",
+        "IVZ": "Invesco"
+      },
+      "industry_peer_theme": "Asset Management",
+      "filing_date": "2026-02-13",
+      "enriched_at": "2026-05-30T09:27:17.801700-04:00"
+    },
+    "MS": {
+      "name": "MORGAN STANLEY",
+      "summary": "Morgan Stanley is a global financial services firm that advises, originates, trades, manages, and distributes capital for governments, institutions, and individuals. The company is a financial holding company regulated by the Federal Reserve and conducts business from its headquarters in New York City and other world financial centers. Morgan Stanley provides a range of financial services, including investment management and securities trading.",
+      "news_role": null,
+      "contextual_peers": [
+        "ORCL",
+        "NOW",
+        "MORN",
+        "S",
+        "CRM"
+      ],
+      "contextual_peer_names": {
+        "ORCL": "Oracle",
+        "NOW": "ServiceNow",
+        "MORN": "Morningstar",
+        "S": "SentinelOne",
+        "CRM": "Salesforce"
+      },
+      "industry": "Security Brokers, Dealers & Flotation Companies",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "SF",
+        "IBKR",
+        "RJF",
+        "VIRT",
+        "SEIC"
+      ],
+      "industry_peer_names": {
+        "SF": "Stifel Financial",
+        "IBKR": "Interactive Brokers Group",
+        "RJF": "Raymond James Financial",
+        "VIRT": "Virtu Financial",
+        "SEIC": "SEI Investments"
+      },
+      "industry_peer_theme": "Financial Services",
+      "filing_date": "2026-02-19",
+      "enriched_at": "2026-05-30T09:27:24.321777-04:00"
+    },
+    "MSFT": {
+      "name": "MICROSOFT CORP",
+      "summary": "Microsoft is a technology company that develops and supports a broad portfolio of technology solutions, focusing on secure, trusted, and innovative platforms and tools for individuals and businesses. Its mission is to empower every person and organization on the planet to achieve more. Microsoft's AI offerings span every layer of the technology stack.",
+      "news_role": "As a leading provider of software and cloud infrastructure, Microsoft's cloud computing platform Azure is a significant contributor to its revenue growth, positioning it as a key player in the tech industry.",
+      "contextual_peers": [
+        "ORCL",
+        "NOW",
+        "MORN",
+        "S",
+        "MS"
+      ],
+      "contextual_peer_names": {
+        "ORCL": "Oracle",
+        "NOW": "ServiceNow",
+        "MORN": "Morningstar",
+        "S": "SentinelOne",
+        "MS": "Morgan Stanley"
+      },
+      "industry": "Services-Prepackaged Software",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "NTNX",
+        "MANH",
+        "PLTR",
+        "NOW",
+        "ORCL"
+      ],
+      "industry_peer_names": {
+        "NTNX": "Nutanix",
+        "MANH": "Manhattan Associates",
+        "PLTR": "Palantir Technologies",
+        "NOW": "ServiceNow",
+        "ORCL": "Oracle"
+      },
+      "industry_peer_theme": "Cloud Computing Software",
+      "filing_date": "2025-07-30",
+      "enriched_at": "2026-05-30T09:27:31.813378-04:00"
+    },
+    "MU": {
+      "name": "MICRON TECHNOLOGY INC",
+      "summary": "Micron Technology Inc is a leading manufacturer of memory and storage solutions, providing high-performance DRAM, NAND, and NOR memory and storage products to customers worldwide. The company's innovations fuel the data economy, enabling advances in artificial intelligence and compute-intensive applications. Micron's products are used in various industries, including data centers, client and mobile user experiences.",
+      "news_role": "Micron Technology's market value surpassed $1 trillion, positioning the company as a significant player in the chip industry.",
+      "contextual_peers": [
+        "NVDA",
+        "INTC",
+        "HPE"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "INTC": "Intel",
+        "HPE": "Hewlett Packard Enterprise"
+      },
+      "industry": "Semiconductors & Related Devices",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "NVDA",
+        "INTC",
+        "ON",
+        "Q",
+        "MRVL"
+      ],
+      "industry_peer_names": {
+        "NVDA": "Nvidia",
+        "INTC": "Intel",
+        "ON": "ON Semiconductor",
+        "Q": "Qnity Electronics",
+        "MRVL": "Marvell Technology"
+      },
+      "industry_peer_theme": "Semiconductor Industry",
+      "filing_date": "2025-10-03",
+      "enriched_at": "2026-05-30T09:27:39.069338-04:00"
+    },
+    "NFLX": {
+      "name": "NETFLIX INC",
+      "summary": "Netflix, Inc. is a leading entertainment services company offering TV series, films, games, and live programming globally, with a focus on continuous improvement of its members' experience and global growth within its operating margin target.",
+      "news_role": null,
+      "contextual_peers": [
+        "NVDA",
+        "MSFT",
+        "TSLA",
+        "MCO",
+        "CARR"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "MSFT": "Microsoft",
+        "TSLA": "Tesla",
+        "MCO": "Moody's",
+        "CARR": "Carrier Global"
+      },
+      "industry": "Services-Video Tape Rental",
+      "exchange": "NASDAQ",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-01-23",
+      "enriched_at": "2026-05-30T09:27:44.218368-04:00"
+    },
+    "NOW": {
+      "name": "ServiceNow, Inc.",
+      "summary": "ServiceNow, Inc. is a software company that provides enterprise software solutions for IT service management, customer service, and digital workspace management. Its software helps businesses manage their IT services, improve customer experience, and increase productivity. The company's solutions are designed to help businesses automate and streamline their operations.",
+      "news_role": "ServiceNow is a key player in the software and AI market trends, with its emphasis on agentic AI forcing businesses to invest in identity security tools and scale defenses against bot armies.",
+      "contextual_peers": [
+        "ORCL",
+        "MSFT"
+      ],
+      "contextual_peer_names": {
+        "ORCL": "Oracle",
+        "MSFT": "Microsoft"
+      },
+      "industry": "Services-Prepackaged Software",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "PCTY",
+        "PATH",
+        "SSNC",
+        "SNOW",
+        "SAIL"
+      ],
+      "industry_peer_names": {
+        "PCTY": "Paylocity Holding",
+        "PATH": "UiPath",
+        "SSNC": "SS&C Technologies",
+        "SNOW": "Snowflake",
+        "SAIL": "SailPoint"
+      },
+      "industry_peer_theme": "Cloud Software Services",
+      "filing_date": "2026-01-29",
+      "enriched_at": "2026-05-30T09:27:51.812314-04:00"
+    },
+    "NVDA": {
+      "name": "NVIDIA CORP",
+      "summary": "NVIDIA is a data center scale AI infrastructure company that accelerates computational problems using its CUDA development platform and domain-specific software libraries. Its technology stack facilitates the deployment of accelerated computing for AI, data analytics, scientific computing, robotics, and 3D graphics. The company is now reshaping all industries with its technology.",
+      "news_role": "NVIDIA is currently struggling to sell its high-end chips in China due to U.S. sanctions, which has impacted its financial performance.",
+      "contextual_peers": [
+        "MU",
+        "INTC",
+        "HPE",
+        "GOOG"
+      ],
+      "contextual_peer_names": {
+        "MU": "Micron Technology",
+        "INTC": "Intel",
+        "HPE": "Hewlett Packard Enterprise",
+        "GOOG": "Alphabet"
+      },
+      "industry": "Semiconductors & Related Devices",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "INTC",
+        "Q",
+        "ON",
+        "MU",
+        "TXN"
+      ],
+      "industry_peer_names": {
+        "INTC": "Intel",
+        "Q": "Qnity Electronics",
+        "ON": "ON Semiconductor",
+        "MU": "Micron Technology",
+        "TXN": "Texas Instruments"
+      },
+      "industry_peer_theme": "Semiconductor Technology",
+      "filing_date": "2026-02-25",
+      "enriched_at": "2026-05-30T09:27:59.268829-04:00"
+    },
+    "NYT": {
+      "name": "NEW YORK TIMES CO",
+      "summary": "The New York Times Company is a global media organization focused on creating and distributing high-quality news and information. Its mission is to help its audience understand and engage with the world through original, independent, and high-quality reporting, storytelling, expertise, and journalistic excellence. This has contributed to its success and recognition with industry and peer accolades.",
+      "news_role": null,
+      "contextual_peers": [
+        "UAL",
+        "AAL",
+        "DIS",
+        "COO",
+        "TMO"
+      ],
+      "contextual_peer_names": {
+        "UAL": "United Airlines",
+        "AAL": "American Airlines Group",
+        "DIS": "Walt Disney",
+        "COO": "Cooper",
+        "TMO": "Thermo Fisher Scientific"
+      },
+      "industry": "Newspapers: Publishing or  Publishing & Printing",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "NWS"
+      ],
+      "industry_peer_names": {
+        "NWS": "News"
+      },
+      "industry_peer_theme": "Media and News",
+      "filing_date": "2026-02-27",
+      "enriched_at": "2026-05-30T09:28:05.848014-04:00"
+    },
+    "ORCL": {
+      "name": "ORACLE CORP",
+      "summary": "Oracle provides products and services that address enterprise IT needs, offering flexible and interoperable deployment models for enterprise applications and infrastructure technologies. This aligns with its corporate strategy to provide choice and flexibility to customers. The company's growth strategy is focused on addressing customer needs through broad and comprehensive deployment models.",
+      "news_role": "As a key player in the software and AI market trends, Oracle's cloud infrastructure offerings position it as a major competitor in the industry.",
+      "contextual_peers": [
+        "MSFT",
+        "CRM",
+        "MS"
+      ],
+      "contextual_peer_names": {
+        "MSFT": "Microsoft",
+        "CRM": "Salesforce",
+        "MS": "Morgan Stanley"
+      },
+      "industry": "Services-Prepackaged Software",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "NTNX",
+        "PLTR",
+        "NOW",
+        "MDB",
+        "TDC"
+      ],
+      "industry_peer_names": {
+        "NTNX": "Nutanix",
+        "PLTR": "Palantir Technologies",
+        "NOW": "ServiceNow",
+        "MDB": "MongoDB",
+        "TDC": "Teradata"
+      },
+      "industry_peer_theme": "Cloud Computing Software",
+      "filing_date": "2025-06-18",
+      "enriched_at": "2026-05-30T09:28:12.891792-04:00"
+    },
+    "PYPL": {
+      "name": "PayPal Holdings, Inc.",
+      "summary": "PayPal Holdings, Inc. enables digital payments and simplifies commerce experiences for consumers and merchants globally, with a two-sided network connecting 439 million active accounts across 200 markets. Consumers can shop, pay, manage finances, and send/receive money with PayPal and Venmo. The company aims to revolutionize commerce globally.",
+      "news_role": null,
+      "contextual_peers": [
+        "NVDA",
+        "MSFT",
+        "TSLA"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "MSFT": "Microsoft",
+        "TSLA": "Tesla"
+      },
+      "industry": "Services-Business Services, NEC",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "UBER",
+        "V",
+        "MA",
+        "WU"
+      ],
+      "industry_peer_names": {
+        "UBER": "Uber Technologies",
+        "V": "Visa",
+        "MA": "Mastercard",
+        "WU": "Western Union"
+      },
+      "industry_peer_theme": "Digital Payments",
+      "filing_date": "2026-02-03",
+      "enriched_at": "2026-05-30T09:28:19.158615-04:00"
+    },
+    "RBC": {
+      "name": "RBC Bearings INC",
+      "summary": "RBC Bearings Incorporated is an international manufacturer and marketer of precision bearings, components, and essential systems for the Industrial and Aerospace & Defense markets. Their products are integral to the manufacture and operation of most machines and mechanical systems, reducing wear and friction. They focus primarily on the higher end of the bearing and gear market.",
+      "news_role": null,
+      "contextual_peers": [
+        "MSFT",
+        "CRM",
+        "ORCL",
+        "MS",
+        "NOW"
+      ],
+      "contextual_peer_names": {
+        "MSFT": "Microsoft",
+        "CRM": "Salesforce",
+        "ORCL": "Oracle",
+        "MS": "Morgan Stanley",
+        "NOW": "ServiceNow"
+      },
+      "industry": "Ball & Roller Bearings",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "TKR"
+      ],
+      "industry_peer_names": {
+        "TKR": "Timken"
+      },
+      "industry_peer_theme": "Industrial Bearing Industry",
+      "filing_date": "2026-05-15",
+      "enriched_at": "2026-05-30T09:28:25.532762-04:00"
+    },
+    "S": {
+      "name": "SentinelOne, Inc.",
+      "summary": "SentinelOne, Inc. develops endpoint security solutions to empower human operators with the speed, scale, visibility, and precision of technology to stay one step ahead of attackers. The company aims to address intrusion attempts in real-time at machine speed, mitigating damages from cyberattacks. This is part of a generational shift in cybersecurity driven by digital transformation and the rise of AI.",
+      "news_role": null,
+      "contextual_peers": [
+        "MSFT",
+        "CRM",
+        "ORCL",
+        "NOW",
+        "MORN"
+      ],
+      "contextual_peer_names": {
+        "MSFT": "Microsoft",
+        "CRM": "Salesforce",
+        "ORCL": "Oracle",
+        "NOW": "ServiceNow",
+        "MORN": "Morningstar"
+      },
+      "industry": "Services-Prepackaged Software",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "RBRK",
+        "SAIL"
+      ],
+      "industry_peer_names": {
+        "RBRK": "Rubrik",
+        "SAIL": "SailPoint"
+      },
+      "industry_peer_theme": "Cybersecurity and Risk",
+      "filing_date": "2026-03-19",
+      "enriched_at": "2026-05-30T09:28:32.413084-04:00"
+    },
+    "ST": {
+      "name": "Sensata Technologies Holding plc",
+      "summary": "Sensata Technologies Holding plc is a global industrial technology company that develops and innovates customized solutions for mission-critical applications. The company presents financial information for three reportable segments: Automotive, Industrials, and Aerospace, Defense, and Commercial. Sensata strives to help customers and partners safely deliver a cleaner, more efficient, electrified, and connected world.",
+      "news_role": null,
+      "contextual_peers": [
+        "MSFT",
+        "CRM",
+        "ORCL",
+        "NOW",
+        "MORN"
+      ],
+      "contextual_peer_names": {
+        "MSFT": "Microsoft",
+        "CRM": "Salesforce",
+        "ORCL": "Oracle",
+        "NOW": "ServiceNow",
+        "MORN": "Morningstar"
+      },
+      "industry": "Industrial Instruments For Measurement, Display, and Control",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "MKSI",
+        "RAL"
+      ],
+      "industry_peer_names": {
+        "MKSI": "MKS Incorporated",
+        "RAL": "Ralliant"
+      },
+      "industry_peer_theme": "Industrial Automation",
+      "filing_date": "2026-02-27",
+      "enriched_at": "2026-05-30T09:28:39.271186-04:00"
+    },
+    "TMO": {
+      "name": "THERMO FISHER SCIENTIFIC INC.",
+      "summary": "Thermo Fisher Scientific Inc. is a global leader in serving the needs of science and education with advanced technology products for research, healthcare, education, and commercial laboratories. The company's products and services are used in a wide range of applications, including molecular diagnostics, laboratory equipment, and information technology. Thermo Fisher Scientific Inc. is committed to advancing the world of science.",
+      "news_role": null,
+      "contextual_peers": [
+        "UAL",
+        "AAL",
+        "DIS"
+      ],
+      "contextual_peer_names": {
+        "UAL": "United Airlines",
+        "AAL": "American Airlines Group",
+        "DIS": "Walt Disney"
+      },
+      "industry": "Measuring & Controlling Devices, NEC",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-02-26",
+      "enriched_at": "2026-05-30T09:28:45.270969-04:00"
+    },
+    "TSLA": {
+      "name": "Tesla, Inc.",
+      "summary": "Tesla, Inc. focuses on bringing artificial intelligence into the real world through products and services like Full Self-Driving and Robotaxi, while designing, developing, manufacturing, selling, and leasing high-performance electric vehicles and energy generation and storage systems.",
+      "news_role": null,
+      "contextual_peers": [
+        "NVDA",
+        "MSFT",
+        "JPM"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "MSFT": "Microsoft",
+        "JPM": "JPMorgan Chase"
+      },
+      "industry": "Motor Vehicles & Passenger Car Bodies",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "LCID",
+        "RIVN",
+        "OSK"
+      ],
+      "industry_peer_names": {
+        "LCID": "Lucid Group",
+        "RIVN": "Rivian Automotive",
+        "OSK": "Oshkosh"
+      },
+      "industry_peer_theme": "Electric Vehicle Makers",
+      "filing_date": "2026-01-29",
+      "enriched_at": "2026-05-30T09:28:51.239862-04:00"
+    },
+    "UAL": {
+      "name": "United Airlines Holdings, Inc.",
+      "summary": "United Airlines Holdings, Inc. is a holding company with a comprehensive route network, connecting people and uniting the world. Its subsidiary, United Airlines, Inc., operates with nearly 100% of the company's revenues and expenses. United has hubs in major US cities, including Newark Liberty International Airport.",
+      "news_role": "United Airlines is positioned to be significantly impacted by proposed cuts to Customs and Border Protection service at Newark Liberty International Airport.",
+      "contextual_peers": [
+        "AAL",
+        "DIS",
+        "COO",
+        "TMO"
+      ],
+      "contextual_peer_names": {
+        "AAL": "American Airlines Group",
+        "DIS": "Walt Disney",
+        "COO": "Cooper",
+        "TMO": "Thermo Fisher Scientific"
+      },
+      "industry": "Air Transportation, Scheduled",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "LUV"
+      ],
+      "industry_peer_names": {
+        "LUV": "Southwest Airlines"
+      },
+      "industry_peer_theme": "Low Cost Airlines",
+      "filing_date": "2026-02-12",
+      "enriched_at": "2026-05-30T09:28:58.484674-04:00"
+    },
+    "VIRT": {
+      "name": "Virtu Financial, Inc.",
+      "summary": "Virtu Financial, Inc. is a leading financial firm that leverages cutting-edge technology to deliver liquidity to global markets and provide innovative, transparent trading solutions to clients. It offers a robust product suite including execution, liquidity sourcing, analytics, and broker-neutral platforms. The company provides clients with access to hundreds of venues across over 50 countries and multiple asset classes.",
+      "news_role": null,
+      "contextual_peers": [
+        "HOOD",
+        "COIN",
+        "FLUT",
+        "GOOG",
+        "CRM"
+      ],
+      "contextual_peer_names": {
+        "HOOD": "Robinhood Markets",
+        "COIN": "Coinbase Global",
+        "FLUT": "Flutter Entertainment",
+        "GOOG": "Alphabet",
+        "CRM": "Salesforce"
+      },
+      "industry": "Security Brokers, Dealers & Flotation Companies",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "MKTX",
+        "IBKR",
+        "MS",
+        "JEF",
+        "SF"
+      ],
+      "industry_peer_names": {
+        "MKTX": "Marketaxess",
+        "IBKR": "Interactive Brokers Group",
+        "MS": "Morgan Stanley",
+        "JEF": "Jefferies Financial Group",
+        "SF": "Stifel Financial"
+      },
+      "industry_peer_theme": "Financial Technology",
+      "filing_date": "2026-02-20",
+      "enriched_at": "2026-05-30T09:29:05.444900-04:00"
+    },
+    "VNOM": {
+      "name": "Viper Energy, Inc.",
+      "summary": "Viper Energy, Inc. is a Delaware corporation that operates in the energy industry, previously as a limited partnership and later as a subsidiary of New Cobra Pubco, Inc. The company has undergone significant changes, including a name change and a merger, in an effort to restructure and adapt to the energy market.",
+      "news_role": null,
+      "contextual_peers": [
+        "MSFT",
+        "CRM",
+        "ORCL",
+        "NOW",
+        "MORN"
+      ],
+      "contextual_peer_names": {
+        "MSFT": "Microsoft",
+        "CRM": "Salesforce",
+        "ORCL": "Oracle",
+        "NOW": "ServiceNow",
+        "MORN": "Morningstar"
+      },
+      "industry": "Crude Petroleum & Natural Gas",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "PR",
+        "MTDR",
+        "OVV",
+        "RRC"
+      ],
+      "industry_peer_names": {
+        "PR": "Permian Resources",
+        "MTDR": "Matador Resources",
+        "OVV": "Ovintiv",
+        "RRC": "Range Resources"
+      },
+      "industry_peer_theme": "Permian Oil",
+      "filing_date": "2026-02-25",
+      "enriched_at": "2026-05-30T09:29:12.255242-04:00"
+    },
+    "WBD": {
+      "name": "Warner Bros. Discovery, Inc.",
+      "summary": "Warner Bros. Discovery, Inc. is a media conglomerate that operates in the film, television, and digital media industries. The company faces challenges in the linear distribution market, including declining subscribers and advertising revenue. Despite these headwinds, Warner Bros. Discovery continues to innovate and expand its digital presence.",
+      "news_role": null,
+      "contextual_peers": [
+        "UAL",
+        "AAL",
+        "DIS",
+        "COO",
+        "TMO"
+      ],
+      "contextual_peer_names": {
+        "UAL": "United Airlines",
+        "AAL": "American Airlines Group",
+        "DIS": "Walt Disney",
+        "COO": "Cooper",
+        "TMO": "Thermo Fisher Scientific"
+      },
+      "industry": "Cable & Other Pay Television Services",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "LBTYA",
+        "ROKU"
+      ],
+      "industry_peer_names": {
+        "LBTYA": "Liberty Global",
+        "ROKU": "Roku"
+      },
+      "industry_peer_theme": "Media and Entertainment",
+      "filing_date": "2026-02-27",
+      "enriched_at": "2026-05-30T09:29:18.702168-04:00"
+    }
+  }
+}

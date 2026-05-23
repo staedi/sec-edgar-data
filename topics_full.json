@@ -1,0 +1,1069 @@
+{
+  "name": "root",
+  "mode": "full",
+  "updated_at": "2026-05-30T22:11:25.453819+00:00",
+  "children": [
+    {
+      "name": "Artificial Intelligence and Tech",
+      "count": 9,
+      "children": [
+        {
+          "cluster_id": 9,
+          "name": "\"Software and AI Market Trends\"",
+          "count": 5,
+          "children": [
+            {
+              "name": "European defense stocks to enter a new phase after military spending boom",
+              "summary": "European defense stocks enjoyed a bumper 2025, fueled by a sharp increase in state military spending targets in response to growing geopolitical instability.",
+              "hash": "0f74165d744eb091",
+              "chunk_key": "0f74165d744eb091_c000",
+              "article_date": "2026-05-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Software stocks wrap up best month since 2001 as talk of 'SaaSpocalypse' subsides",
+              "summary": "announced a $6 billion cloud and chip deal with Amazon and raised guidance as customers gravitate toward more AI tools. \"We're also seeing customers deploy and scale workloads at a…",
+              "hash": "faa95f8da40bb06b",
+              "chunk_key": "faa95f8da40bb06b_c001",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "SentinelOne drops 8% as cyber firm slashes headcount to boost AI investments",
+              "summary": "SentinelOne shares sank 8% as the cybersecurity company laid off 8% of its full-time workforce to focus on artificial intelligence and data investments. \"This is not a reactive mea…",
+              "hash": "67e2acb790fa3269",
+              "chunk_key": "67e2acb790fa3269_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Software stocks are crashing up. Here are the winners",
+              "summary": "The rally in software stocks has gone from recovery to raging bull market, and traders are betting there's more to come.",
+              "hash": "cfba63940307be1e",
+              "chunk_key": "cfba63940307be1e_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "As SpaceX IPO nears, traders think Musk will be the first trillionaire",
+              "summary": "Traders are confident Elon Musk will reach trillionaire status before 2027 after buzz that SpaceX is set to have a record-shattering initial public offering.",
+              "hash": "bc44f46867ef96e8",
+              "chunk_key": "bc44f46867ef96e8_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "related_tickers_named": [
+            {
+              "ticker": "NOW",
+              "name": "ServiceNow",
+              "count": 2
+            },
+            {
+              "ticker": "ORCL",
+              "name": "Oracle",
+              "count": 2
+            },
+            {
+              "ticker": "MORN",
+              "name": "Morningstar",
+              "count": 1
+            },
+            {
+              "ticker": "MS",
+              "name": "Morgan Stanley",
+              "count": 1
+            },
+            {
+              "ticker": "S",
+              "name": "SentinelOne",
+              "count": 1
+            },
+            {
+              "ticker": "CRM",
+              "name": "Salesforce",
+              "count": 1
+            },
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft",
+              "count": 1
+            }
+          ],
+          "related_tickers_semantic": [
+            {
+              "ticker": "RBC",
+              "name": "RBC Bearings",
+              "count": 0
+            },
+            {
+              "ticker": "LHX",
+              "name": "L3harris Technologies,",
+              "count": 0
+            },
+            {
+              "ticker": "ST",
+              "name": "Sensata Technologies Holding",
+              "count": 0
+            },
+            {
+              "ticker": "LOAR",
+              "name": "Loar",
+              "count": 0
+            },
+            {
+              "ticker": "VNOM",
+              "name": "Viper Energy",
+              "count": 0
+            },
+            {
+              "ticker": "INTC",
+              "name": "Intel",
+              "count": 0
+            }
+          ],
+          "ticker_context": {
+            "MORN": [
+              "But analysts see 2026 as a period of consolidation for the sector, in which bullishness over Europe's increased defense spending is replaced by greater scrutiny of individual companies' performance and fundamentals. \"Investors are becoming very picky and very selective,\" said Loredana Muharremi, equity analyst at Morningstar. \"What investors want to see now are earnings and cash flows, and we believe that we're going to see some upside towards the second part of the year when the orders come, when the down payments from governments come, when the deliveries come — but it will definitely take a while for stock prices to get back to where they were.\" Shares of defense companies initially held up well after the U.S. and Israel launched attacks on Iran on Feb. 28, as concerns emerged that the conflict would escalate into a full-blown war engulfing the entire Middle East region."
+            ],
+            "MS": [
+              "That came up short of a $1.21 billion forecast. \"Combined with growing criticalness of category, this should have been a Q where it sustained recent gains; lack of material guidance raise leaves in holding pattern,\" wrote analysts at Morgan Stanley."
+            ],
+            "S": [
+              "SentinelOne shares sank 8% as the cybersecurity company laid off 8% of its full-time workforce to focus on artificial intelligence and data investments. \"This is not a reactive measure, it is a deliberate evolution to reduce complexity, raise the performance bar, and build a leaner, more agile SentinelOne,\" CEO Tomer Weingarten told analysts on the earnings call Thursday."
+            ],
+            "ORCL": [
+              "Even after huge moves in ServiceNow, Salesforce and Oracle on Friday, call option volumes in each stock outpaced puts by a factor of 5, according to data from ThinkOrSwim.",
+              "Among the software giants that are also selling cloud infrastructure, Oracle jumped 16% and Microsoft rose almost 8%."
+            ],
+            "CRM": [
+              "Even after huge moves in ServiceNow, Salesforce and Oracle on Friday, call option volumes in each stock outpaced puts by a factor of 5, according to data from ThinkOrSwim."
+            ],
+            "NOW": [
+              "Even after huge moves in ServiceNow, Salesforce and Oracle on Friday, call option volumes in each stock outpaced puts by a factor of 5, according to data from ThinkOrSwim.",
+              "The iShares Expanded Tech-Software ETF (IGV) is up 35% from its April low after a 5% rally Friday on the back of double-digit percentage gains in ServiceNow and Workday .",
+              "The company reported better-than-expected results , and said the shift to agentic AI is forcing businesses to invest in identity security tools and scale defenses against a wave of bot armies. \"AI products are going to take longer, but every organization is going to build and deploy agents,\" Okta CEO Todd McKinnon told CNBC. \"It's fundamental infrastructure that's going to be required over the next few years.\" Elsewhere in the software space, Atlassian climbed 26% for the week and ServiceNow surged over 20%, while Shopify , Workday and Asana each gained at least 14%."
+            ],
+            "AMZN": [
+              "The company announced a $6 billion cloud and chip deal with Amazon and raised guidance as customers gravitate toward more AI tools. \"We're also seeing customers deploy and scale workloads at a faster pace,\" CEO Sridhar Ramaswamy told analysts on the company's earnings call."
+            ],
+            "MSFT": [
+              "However, Microsoft is still down almost 7% for the year, the worst performance among tech's megacaps.",
+              "Among the software giants that are also selling cloud infrastructure, Oracle jumped 16% and Microsoft rose almost 8%."
+            ],
+            "NDAQ": [
+              "With this month's rally, the iShares software ETF is only down 3.8% for the year, still badly trailing the Nasdaq, which has gained 18% in 2026."
+            ],
+            "OKTA": [
+              "The company reported better-than-expected results , and said the shift to agentic AI is forcing businesses to invest in identity security tools and scale defenses against a wave of bot armies. \"AI products are going to take longer, but every organization is going to build and deploy agents,\" Okta CEO Todd McKinnon told CNBC. \"It's fundamental infrastructure that's going to be required over the next few years.\" Elsewhere in the software space, Atlassian climbed 26% for the week and ServiceNow surged over 20%, while Shopify , Workday and Asana each gained at least 14%.",
+              "Software stocks soared this week, driven by strong results from Snowflake and Okta , signaling that some companies are navigating their way through artificial intelligence disruption better than Wall Street expected.",
+              "Okta was another big winner with investors, gaining a record 30% on Friday."
+            ],
+            "SNOW": [
+              "Software stocks soared this week, driven by strong results from Snowflake and Okta , signaling that some companies are navigating their way through artificial intelligence disruption better than Wall Street expected.",
+              "The stock closed Friday at $255.55 and is now up 17% for the year. \"We think Snowflake may actually be a beneficiary of GenAI development as enterprises increasingly need to unify and harmonize data, Snowflake's core business, in order to exploit the benefits of GenAI,\" the analysts wrote in a report after earnings.",
+              "Data platform provider Snowflake was a big driver this week, logging its best day ever on Thursday and gaining nearly 50% in the four trading days following the holiday on Monday.",
+              "Analysts at Argus Research called Snowflake a \"picks and shovels\" play on generative AI and lifted their price target to $300 from $250."
+            ]
+          },
+          "ticker_summary": {
+            "ORCL": "A software giant that is also selling cloud infrastructure, making it a key player in the software and AI market trends.",
+            "NOW": "ServiceNow's reported better-than-expected results and its emphasis on agentic AI forcing businesses to invest in identity security tools and scale defenses against bot armies makes it a key player in the software and AI market trends.",
+            "MSFT": "A leading provider of software and cloud infrastructure, with its cloud computing platform Azure being a significant contributor to its revenue growth.",
+            "OKTA": "Okta's reported better-than-expected results and CEO Todd McKinnon's comments on the shift to agentic AI forcing businesses to invest in identity security tools are relevant to the software and AI market trends.",
+            "SNOW": "Snowflake's data platform is seen as a key enabler of generative AI (GenAI) development, allowing enterprises to unify and harmonize data, thereby exploiting the benefits of GenAI."
+          }
+        },
+        {
+          "cluster_id": 4,
+          "name": "Nvidia's Expansion in Taiwan",
+          "count": 3,
+          "children": [
+            {
+              "name": "Taiwan chip stocks climb after Nvidia announces $150 billion spending plans",
+              "summary": "A $150 billion annual outlay in Taiwan would be among Nvidia's largest spending plans to date, and exceed what the company made in revenue in a single quarter.",
+              "hash": "d8f6b086932f9fca",
+              "chunk_key": "d8f6b086932f9fca_c001",
+              "article_date": "2026-05-26 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
+              "summary": "1.4-nanometer process technology — while global chip leader TSMC has begun volume production of 2-nanometer chips.",
+              "hash": "256792779ae80aea",
+              "chunk_key": "256792779ae80aea_c001",
+              "article_date": "2026-05-24 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Which company will the U.S. government take a stake in next? What traders say",
+              "summary": "Quantum stocks jumped this week on news that the U.S. government was taking equity stakes in nine companies, including IBM , as President Donald Trump's administration continues to…",
+              "hash": "686a49d812208e47",
+              "chunk_key": "686a49d812208e47_c000",
+              "article_date": "2026-05-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "related_tickers_named": [
+            {
+              "ticker": "MU",
+              "name": "Micron Technology",
+              "count": 3
+            },
+            {
+              "ticker": "NVDA",
+              "name": "Nvidia",
+              "count": 2
+            },
+            {
+              "ticker": "INTC",
+              "name": "Intel",
+              "count": 1
+            }
+          ],
+          "related_tickers_semantic": [
+            {
+              "ticker": "NVDA",
+              "name": "Nvidia",
+              "count": 0
+            },
+            {
+              "ticker": "INTC",
+              "name": "Intel",
+              "count": 0
+            },
+            {
+              "ticker": "MU",
+              "name": "Micron Technology",
+              "count": 0
+            },
+            {
+              "ticker": "HPE",
+              "name": "Hewlett Packard Enterprise",
+              "count": 0
+            }
+          ],
+          "ticker_context": {
+            "NVDA": [
+              "However, even Nvidia's Huang has said Moore's Law is no longer applicable to future chip development. \"Huawei is turning an engineering strategy into a quasi-'law,'\" Triolo said.",
+              "Chinese tech giant Huawei on Monday touted a new approach to developing advanced semiconductors despite U.S. sanctions, as Nvidia struggles to sell its high-end chips in China.",
+              "While U.S. restrictions have kept Nvidia from selling its most advanced chips to China in recent years, Beijing has pushed to support homegrown technology instead.",
+              "Last week, Nvidia CEO Jensen Huang told CNBC the U.S. chipmaker had \"conceded\" the Chinese market to Huawei. \"For Nvidia, this means the window to sell advanced chips such as the H200 into China is narrowing,\" said George Chen, partner and co-chair of digital practice at The Asia Group. \"This trajectory will likely heighten concerns in Washington, where Huawei remains emblematic of U.S. export restrictions,\" he said.",
+              "By the end of the year, Nvidia will begin building a new office complex called Constellation, which can accommodate 4,000 employees in northern Taipei when it opens in 2030, he said.",
+              "A $150 billion annual outlay in Taiwan would be among Nvidia's largest spending plans to date, and exceed what the company made in revenue in a single quarter.",
+              "The investment comes as Nvidia faces growing regulatory hurdles in selling to the mainland Chinese market ."
+            ],
+            "INTC": [
+              "The contracts only are resolved to \"yes\" if an official announcement is made or verified by the company or a government agency.\" In August, around the same time when the U.S. stake in Intel was first revealed, there were reports that the government was considering taking a stake in Micron ."
+            ],
+            "MU": [
+              "However, that proposal didn't come to fruition, and the White House said it wouldn't seek stakes in chip companies increasing investment in the U.S. Representatives for Micron, Anduril and IonQ couldn't be immediately reached for comment.",
+              "The contracts only are resolved to \"yes\" if an official announcement is made or verified by the company or a government agency.\" In August, around the same time when the U.S. stake in Intel was first revealed, there were reports that the government was considering taking a stake in Micron .",
+              "Shares of Micron have surged more than 160% in 2026 thanks to a memory shortage due to the artificial intelligence buildout.",
+              "Lastly, traders place 28% odds that Micron Technology gets a U.S. government stake.",
+              "Also helping gains was news that South Korea's SK Hynix and U.S.-based Micron became the latest chip-related companies to reach $1 trillion in market value. \"Now we're spending $100 [billion], going to $150 billion in Taiwan each year,\" Huang said in Taipei, noting that's up from $10 billion to $15 billion annually just four or five years ago."
+            ]
+          },
+          "ticker_summary": {
+            "NVDA": "Nvidia is a U.S. chipmaker that has struggled to sell its high-end chips in China due to U.S. sanctions, with Beijing pushing to support homegrown technology instead.",
+            "MU": "Micron Technology's market value surpassed $1 trillion, alongside South Korea's SK Hynix, indicating significant growth in the chip industry."
+          }
+        },
+        {
+          "cluster_id": 10,
+          "name": "\"AI Costs Outpace Human Value\"",
+          "count": 1,
+          "children": [
+            {
+              "name": "Tokens or humans? the new corporate trade-off",
+              "summary": "that technology costs the same as people, and you're making that comparison: choose tech or people,\" he said. \"We've never had that conversation historically, because tech is a fra…",
+              "hash": "d6227fd0903d82b0",
+              "chunk_key": "d6227fd0903d82b0_c001",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "related_tickers_named": [
+            {
+              "ticker": "MU",
+              "name": "Micron Technology",
+              "count": 1
+            }
+          ],
+          "related_tickers_semantic": [],
+          "ticker_context": {
+            "MU": [
+              "It's a risk the market hasn't yet recognized as it hits record highs and mints new trillion-dollar companies like Micron ."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Financial Markets Regulation",
+      "count": 7,
+      "children": [
+        {
+          "cluster_id": 6,
+          "name": "Prediction Markets Face Regulatory Uncertainty",
+          "count": 7,
+          "children": [
+            {
+              "name": "Kalshi is moving beyond prediction markets and into one of crypto's biggest trading lanes",
+              "summary": "Prediction markets giant Kalshi announced Friday it plans to launch perpetual futures contracts, starting with crypto perpetuals.",
+              "hash": "219c2db0d02842a5",
+              "chunk_key": "219c2db0d02842a5_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Software stocks are crashing up. Here are the winners",
+              "summary": "some traders opted to hedge their call-buying in IGV with spreads, and some of the biggest notional trades of the day were call sales, including a handful of multi-million-dollar s…",
+              "hash": "cfba63940307be1e",
+              "chunk_key": "cfba63940307be1e_c001",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "CFTC sues Rhode Island over actions against prediction markets",
+              "summary": "The Commodity Futures Trading Commission announced on Thursday that it was suing Rhode Island, one week after the state took action against two prediction market platforms.",
+              "hash": "f31e5b2564a42e9a",
+              "chunk_key": "f31e5b2564a42e9a_c000",
+              "article_date": "2026-05-27 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Association says states have lost $1 billion in taxes due to prediction markets",
+              "summary": "The American Gaming Association now estimates that states have missed out on more than $1 billion in tax revenue due to the rise of prediction markets.",
+              "hash": "ad7dce828d168d01",
+              "chunk_key": "ad7dce828d168d01_c000",
+              "article_date": "2026-05-27 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Your AI agent can now trade for you on Robinhood",
+              "summary": "Robinhood tried to address this with some guardrails.",
+              "hash": "a761762eb0645159",
+              "chunk_key": "a761762eb0645159_c001",
+              "article_date": "2026-05-26 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Google employee made $1 million on Polymarket on insider info, feds say",
+              "summary": "Federal prosecutors charged a Google employee with fraud on Wednesday, alleging that he made $1.2 million off of bets using insider information on Polymarket.",
+              "hash": "04134d4a9e1c02f3",
+              "chunk_key": "04134d4a9e1c02f3_c000",
+              "article_date": "2026-05-26 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Companies are undeterred in prediction market investments despite legal battle",
+              "summary": "States and the federal government may be battling over who has the power to regulate prediction markets, but the companies building them are chugging along as the platforms continu…",
+              "hash": "d97f4e12ac6ca2b7",
+              "chunk_key": "d97f4e12ac6ca2b7_c000",
+              "article_date": "2026-05-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "related_tickers_named": [
+            {
+              "ticker": "HOOD",
+              "name": "Robinhood Markets",
+              "count": 3
+            },
+            {
+              "ticker": "COIN",
+              "name": "Coinbase Global",
+              "count": 2
+            },
+            {
+              "ticker": "FLUT",
+              "name": "Flutter Entertainment",
+              "count": 2
+            },
+            {
+              "ticker": "GOOG",
+              "name": "Alphabet",
+              "count": 1
+            },
+            {
+              "ticker": "CRM",
+              "name": "Salesforce",
+              "count": 1
+            },
+            {
+              "ticker": "ORCL",
+              "name": "Oracle",
+              "count": 1
+            },
+            {
+              "ticker": "NOW",
+              "name": "ServiceNow",
+              "count": 1
+            }
+          ],
+          "related_tickers_semantic": [
+            {
+              "ticker": "MKTX",
+              "name": "Marketaxess",
+              "count": 0
+            },
+            {
+              "ticker": "HOOD",
+              "name": "Robinhood Markets",
+              "count": 0
+            },
+            {
+              "ticker": "XP",
+              "name": "XP",
+              "count": 0
+            },
+            {
+              "ticker": "NDAQ",
+              "name": "Nasdaq",
+              "count": 0
+            }
+          ],
+          "ticker_context": {
+            "GOOG": [
+              "Federal prosecutors charged a Google employee with fraud on Wednesday, alleging that he made $1.2 million off of bets using insider information on Polymarket.",
+              "Spagnuolo appeared before a federal magistrate judge Wednesday, He did not enter a plea and was released on a $2.25 million bond, ABC reported. \"We're working with law enforcement on their investigation,\" Google said in a statement. \"The employee accessed our marketing material using a tool available to all employees, but using such confidential information to place bets is a serious breach of our policies.\" \"We've placed the employee on leave and will take the appropriate action,\" the company added. \"Polymarket worked closely with the U.S. Attorney's Office for the Southern District of New York and the CFTC, and is the only prediction platform to date whose cooperation has led to insider trading charges in the United States,\" a Polymarket spokesperson said in a statement. \"We are committed to maintaining accurate, fair, and transparent markets as well as enforcing our rules and working with our regulators and law enforcement.\" Spagnuolo is also facing a civil case from the Commodity Futures Trading Commission, where he's charged with insider trading.",
+              "Prosecutors claim that Michele Spagnuolo, a staff information security engineer at Google, used confidential information to place trades correctly betting that singer d4vd would be Google's most searched person in 2025."
+            ],
+            "HOOD": [
+              "The Robinhood move raises some safety issues, putting autonomous trading in the hands of the less sophisticated smaller trader without the same risk controls as a Wall Street institution.",
+              "Robinhood unveiled tools on Wednesday that let AI agents trade stocks and make purchases on users' behalf, marking one of the first attempts to bring autonomous finance technology to ordinary investors rather than institutions.",
+              "In a post on X, the Coalition for Prediction Markets — which represents platforms like Kalshi, Coinbase and Robinhood — cast doubt on the association's estimates. \"Sources not found,\" it wrote in response to the figure.",
+              "Seventeen states in total are challenging companies with prediction markets — like Kalshi, Polymarket , Coinbase and Robinhood — and one has moved to ban them entirely."
+            ],
+            "COIN": [
+              "In a post on X, the Coalition for Prediction Markets — which represents platforms like Kalshi, Coinbase and Robinhood — cast doubt on the association's estimates. \"Sources not found,\" it wrote in response to the figure.",
+              "Seventeen states in total are challenging companies with prediction markets — like Kalshi, Polymarket , Coinbase and Robinhood — and one has moved to ban them entirely."
+            ],
+            "ORCL": [
+              "Even after huge moves in ServiceNow, Salesforce and Oracle on Friday, call option volumes in each stock outpaced puts by a factor of 5, according to data from ThinkOrSwim."
+            ],
+            "CRM": [
+              "Even after huge moves in ServiceNow, Salesforce and Oracle on Friday, call option volumes in each stock outpaced puts by a factor of 5, according to data from ThinkOrSwim."
+            ],
+            "NOW": [
+              "The iShares Expanded Tech-Software ETF (IGV) is up 35% from its April low after a 5% rally Friday on the back of double-digit percentage gains in ServiceNow and Workday .",
+              "Even after huge moves in ServiceNow, Salesforce and Oracle on Friday, call option volumes in each stock outpaced puts by a factor of 5, according to data from ThinkOrSwim."
+            ],
+            "DKNG": [
+              "DraftKings CEO Jason Robins said on a May earnings call that he sees the investment in the company's prediction market platform as a long-term one. \"Obviously, there's always the chance that something regulatory wise or other changes, but assuming a consistent environment to what we see today, I expect that we'll continue to invest in 2027.\" Legal questions aren't slowing down private company growth either."
+            ],
+            "FLUT": [
+              "Flutter owns FanDuel Predicts. \"Until we get through and understand ultimately what the Supreme Court says, I think we're going to live with this uncertainty.\" Jackson said his company will continue to invest in market-making on third-party prediction market platforms, a new strategy it unveiled in its last earnings report, despite the legal questions.",
+              "But legal uncertainty isn't halting the confidence to invest in growing these platforms, based on comments from private companies' leadership and private ones' valuations. \"There's a lot of noise around the legal position-setting prediction markets,\" said Flutter Entertainment CEO Jeremy Peter Jackson in its earnings call earlier this month."
+            ]
+          },
+          "ticker_summary": {
+            "GOOG": "A Google employee, Michele Spagnuolo, has been charged with insider trading, allegedly using confidential information to place bets on Polymarket, a prediction platform that Alphabet's parent company has worked with to enforce rules and regulations.",
+            "HOOD": "Robinhood Markets unveiled tools allowing AI agents to trade stocks and make purchases on users' behalf, marking one of the first attempts to bring autonomous finance technology to ordinary investors.",
+            "COIN": "Coinbase Global is one of the platforms represented by the Coalition for Prediction Markets, which is facing regulatory uncertainty surrounding prediction markets.",
+            "NOW": "ServiceNow's 35% gain from its April low, coupled with a 5% rally on Friday, has led to a surge in call option volumes, outpacing puts by a factor of 5, according to data from ThinkOrSwim.",
+            "FLUT": "Flutter Entertainment owns FanDuel Predicts, a prediction market platform, and has announced plans to continue investing in market-making on third-party platforms despite regulatory uncertainty."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Global Expansion Challenges",
+      "count": 4,
+      "children": [
+        {
+          "cluster_id": 3,
+          "name": "Mercedes-Benz Faces US Ban",
+          "count": 2,
+          "children": [
+            {
+              "name": "Mercedes-Benz may be shut out of U.S. market under bill aimed at China ownership",
+              "summary": "Mercedes-Benz could find itself shut out of the U.S. auto market — banned from making or selling new vehicles in the country — under legislation making its way through Congress.",
+              "hash": "1bb5bc9054b4fcde",
+              "chunk_key": "1bb5bc9054b4fcde_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Nio shares jump 10% after releasing first flagship EV in more than two years",
+              "summary": "Chinese electric car company Nio is trying to raise the bar for premium vehicles in a fiercely competitive market.",
+              "hash": "3c34959ad3989f51",
+              "chunk_key": "3c34959ad3989f51_c000",
+              "article_date": "2026-05-27 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "related_tickers_named": [],
+          "related_tickers_semantic": []
+        },
+        {
+          "cluster_id": 5,
+          "name": "European Companies Expand in China",
+          "count": 2,
+          "children": [
+            {
+              "name": "European companies double down on China manufacturing despite EU de-risking push",
+              "summary": "many have embraced automation — quickly. \"The cost of labor, which might be lower anyway, is becoming irrelevant itself, because [of] automation,\" said Denis Depoux, senior partner…",
+              "hash": "8c6152b2b4cca1f0",
+              "chunk_key": "8c6152b2b4cca1f0_c002",
+              "article_date": "2026-05-26 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "China industrial profits jump 24.7% in April, fastest gain in over two years despite headwinds",
+              "summary": "China's industrial profits surged by 24.7% in April from a year earlier, according to official data released Wednesday, despite broader signs of slowing economic momentum.",
+              "hash": "6a114fd483f506b2",
+              "chunk_key": "6a114fd483f506b2_c000",
+              "article_date": "2026-05-25 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "related_tickers_named": [],
+          "related_tickers_semantic": []
+        }
+      ]
+    },
+    {
+      "name": "Monetary Policy Evolution",
+      "count": 15,
+      "children": [
+        {
+          "cluster_id": 2,
+          "name": "US Inflation Remains a Concern",
+          "count": 12,
+          "children": [
+            {
+              "name": "How the double scar of past inflation woes and geopolitical shocks is hitting consumers",
+              "summary": "A \"double scar\" of past inflation woes and geopolitical trauma is warping how consumers view the economy and threatening a drop-off in retail spending, new research from the Europe…",
+              "hash": "2bfae2487dbf5acb",
+              "chunk_key": "2bfae2487dbf5acb_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Fed's Bowman warns against hiking interest rates because of inflation spike",
+              "summary": "Federal Reserve Governor Michelle Bowman on Friday cautioned against raising interest rates to address the current spike in prices.",
+              "hash": "0fe7b7aa540dd835",
+              "chunk_key": "0fe7b7aa540dd835_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
+              "summary": "Pricier diesel, which is used in vehicles like delivery trucks and boats, has resulted in more than $20 billion in additional expenses for consumers.",
+              "hash": "248e5ac6fa78873d",
+              "chunk_key": "248e5ac6fa78873d_c001",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Energy inflation has been more persistent than expected, Fed's Goolsbee tells CNBC",
+              "summary": "Energy inflation tied to the war in Iran has lasted longer than expected, creating a \"stagflationary shock\" for Asian economies, Chicago Federal Reserve President Austan Goolsbee s…",
+              "hash": "4220a3f3fc308736",
+              "chunk_key": "4220a3f3fc308736_c000",
+              "article_date": "2026-05-27 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Core inflation hit an annual rate of 3.3% in April, as expected, Feds preferred gauge shows",
+              "summary": "GDP accelerated at an annualized rate of just 1.6% for the period, according to a revised Commerce Department reading that was below the initial estimate of 2%.",
+              "hash": "164dd77127b0e79f",
+              "chunk_key": "164dd77127b0e79f_c001",
+              "article_date": "2026-05-27 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Feds Kashkari tells CNBC that inflation fight takes priority as labor market is 'in decent shape'",
+              "summary": "Minneapolis Federal Reserve President Neel Kashkari said Thursday that bringing down inflation in the U.S. remains his top priority, warning that consumer prices are still \"much to…",
+              "hash": "bc532059c4b8ab27",
+              "chunk_key": "bc532059c4b8ab27_c000",
+              "article_date": "2026-05-27 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Traders share Pope Leo's worries on AI's job market impact",
+              "summary": "Pope Leo warned over the weekend that a \"social calamity\" could come from mass unemployment due to the adoption of artificial intelligence technologies.",
+              "hash": "633ccfacd8d4efa3",
+              "chunk_key": "633ccfacd8d4efa3_c000",
+              "article_date": "2026-05-25 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "China industrial profits jump 24.7% in April, fastest gain in over two years despite headwinds",
+              "summary": "asset investment fell for the first four months of the year as the real estate drag steepened.",
+              "hash": "6a114fd483f506b2",
+              "chunk_key": "6a114fd483f506b2_c002",
+              "article_date": "2026-05-25 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "ECB will do what's necessary to tackle inflation, Bank of France governor says",
+              "summary": "is particularly vulnerable to energy shocks as a major net energy importer.",
+              "hash": "dd31a824eead1dbb",
+              "chunk_key": "dd31a824eead1dbb_c001",
+              "article_date": "2026-05-25 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Americans are feeling inflation's pinch into the holiday weekend. Where prices are rising",
+              "summary": "Gasoline prices soared more than 28% year over year, federal data shows.",
+              "hash": "a5bcab5792f03b19",
+              "chunk_key": "a5bcab5792f03b19_c002",
+              "article_date": "2026-05-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
+              "summary": "Consumer sentiment has tumbled to a fresh record low in May as fears of higher prices grow due to the U.S.-Iran war and elevated oil prices, the University of Michigan's Surveys of…",
+              "hash": "d7ff9473c7f89e66",
+              "chunk_key": "d7ff9473c7f89e66_c000",
+              "article_date": "2026-05-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Yield surge in 'risk-free' treasuries has bond investors on the move",
+              "summary": "earnings within the investment grade and high yield markets.",
+              "hash": "e86c432ce9121888",
+              "chunk_key": "e86c432ce9121888_c002",
+              "article_date": "2026-05-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "related_tickers_named": [
+            {
+              "ticker": "MCD",
+              "name": "McDonald's",
+              "count": 1
+            },
+            {
+              "ticker": "MCO",
+              "name": "Moody's",
+              "count": 1
+            },
+            {
+              "ticker": "GS",
+              "name": "Goldman Sachs Group",
+              "count": 1
+            },
+            {
+              "ticker": "CARR",
+              "name": "Carrier Global",
+              "count": 1
+            },
+            {
+              "ticker": "BAC",
+              "name": "Bank of America",
+              "count": 1
+            }
+          ],
+          "related_tickers_semantic": [
+            {
+              "ticker": "NVDA",
+              "name": "Nvidia",
+              "count": 0
+            },
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft",
+              "count": 0
+            },
+            {
+              "ticker": "TSLA",
+              "name": "Tesla",
+              "count": 0
+            },
+            {
+              "ticker": "JPM",
+              "name": "JPMorgan Chase",
+              "count": 0
+            },
+            {
+              "ticker": "PYPL",
+              "name": "Paypal",
+              "count": 0
+            },
+            {
+              "ticker": "V",
+              "name": "Visa",
+              "count": 0
+            }
+          ],
+          "ticker_context": {
+            "GS": [
+              "Goldman Sachs said it expects higher energy prices to \"erode\" consumers' spending power through the rest of 2026."
+            ],
+            "MCD": [
+              "McDonald's CEO Chris Kempczinski warned this month that consumer spending — specifically among lower-income cohorts — \"may be getting a little bit worse\" as energy prices pinch pocketbooks."
+            ],
+            "MCO": [
+              "Higher energy costs can force consumers to raid their savings and lean more on debt to cover expenses. \"Unless the war ends soon, financially pressed consumers will have no option but to turn more cautious in their spending, threatening the already soft economy,\" said Mark Zandi , Moody's chief economist.",
+              "Moody's data puts a dollar amount on a portion of the economic pain Americans are feeling as the war reaches its three-month mark."
+            ],
+            "BAC": [
+              "Prices for travel, recreation and food saw especially sharp increases, draining Americans' wallets as they ring in the unofficial start of summer. \"They're not going to be happy about what they see,\" said Stephen Juneau, senior U.S. economist at Bank of America. \"There will be a lot of grumbling this weekend when people are driving and in the airports, or are going to the store to stock up.\" Consumer sentiment officially came in at its lowest level on record in May, according to survey data from the University of Michigan released Friday.",
+              "About 30% of respondents in a Bank of America survey said they wouldn't change their summer travel plans in light of higher gas prices."
+            ],
+            "CARR": [
+              "Carriers said they would need to hike ticket prices with jet fuel costs surging in the wake of Iran's closure of the Strait of Hormuz, a key passageway for global crude."
+            ]
+          },
+          "ticker_summary": {
+            "MCO": "Moody's's chief economist, Mark Zandi, is providing expert analysis on the potential economic impact of the ongoing war, specifically citing the potential for consumers to become more cautious in their spending.",
+            "BAC": "Bank of America's senior U.S. economist, Stephen Juneau, provided insights on the potential impact of rising inflation on consumer sentiment and behavior."
+          }
+        },
+        {
+          "cluster_id": 1,
+          "name": "\"Federal Reserve Balance Sheet Reform\"",
+          "count": 3,
+          "children": [
+            {
+              "name": "Feds Kashkari tells CNBC that inflation fight takes priority as labor market is 'in decent shape'",
+              "summary": "didn't previously have,\" he said. \"I'm bullish on the long-term prospects of AI, but what are the short-term implications for monetary policy, or even the long-term implications?",
+              "hash": "bc532059c4b8ab27",
+              "chunk_key": "bc532059c4b8ab27_c002",
+              "article_date": "2026-05-27 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Dimon says JPMorgan could spend $20 billion on acquisition: 'On the lookout'",
+              "summary": "JPMorgan Chase CEO Jamie Dimon said Wednesday that his bank could spend up to $20 billion on an acquisition in the coming years.",
+              "hash": "76c0df3c8bf105b9",
+              "chunk_key": "76c0df3c8bf105b9_c000",
+              "article_date": "2026-05-26 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Warshs real Fed 'regime change' may happen deep inside Wall Street's plumbing",
+              "summary": "Central bank researchers have released several papers on the issue, including one titled \" A User's Guide to Reducing the Federal Reserve's Balance Sheet .\" The paper concluded, wi…",
+              "hash": "b7d473b28130b4c0",
+              "chunk_key": "b7d473b28130b4c0_c007",
+              "article_date": "2026-05-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "related_tickers_named": [
+            {
+              "ticker": "JPM",
+              "name": "JPMorgan Chase",
+              "count": 1
+            }
+          ],
+          "related_tickers_semantic": [],
+          "ticker_context": {
+            "JPM": [
+              "A deal that size would be the largest of Dimon's 20-year tenure atop JPMorgan and test regulators' appetite for consolidation among the biggest U.S. banks. \"I do think there might be opportunities, and so we are on the lookout,\" Dimon told analysts at a New York financial conference . \"There might be, in the next couple years, a chance to put $10 [billion] or $20 billion to work buying something,\" Dimon said.",
+              "What are you doing to grow your business — sales, branches, tech, profits, products, services?\" Any takeover target, he said, would need to integrate cleanly into JPMorgan's existing operations, fit the bank's culture, and enhance core businesses rather than sit as a separate standalone unit. \"It can't be just a pie-in-the-sky type of thing,\" Dimon said."
+            ]
+          },
+          "ticker_summary": {
+            "JPM": "JPMorgan Chase is the largest U.S. bank, with a market capitalization of over $450 billion, and is led by CEO Jamie Dimon, who has expressed interest in acquiring a large bank to expand its operations."
+          }
+        }
+      ]
+    },
+    {
+      "name": "US Global Diplomatic Relations",
+      "count": 17,
+      "children": [
+        {
+          "cluster_id": 0,
+          "name": "US-Iran Nuclear Deal Talks",
+          "count": 10,
+          "children": [
+            {
+              "name": "Disney's ABC files early broadcast licenses renewal. FCC Chair vows to 'follow the facts'",
+              "summary": "Disney shot back at the Federal Communications Commission on Thursday as part of an early renewal process for broadcast licenses for eight of the company's stations.",
+              "hash": "509b8d41ff37f77f",
+              "chunk_key": "509b8d41ff37f77f_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump ends Iran meeting without announcing ‘final determination’ on deal",
+              "summary": "on Thursday confirmed an Axios report that the U.S. and Iranian negotiating teams had reached a 60-day memorandum of understanding that would extend the ongoing ceasefire and set u…",
+              "hash": "7d53848a18eed628",
+              "chunk_key": "7d53848a18eed628_c002",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Postal Service proposes requiring states to provide mail-in ballot voter lists",
+              "summary": "The U.S. Postal Service proposed new rules Friday that would require states to provide voter-level data on mail-in ballots in federal elections, one day after a federal judge decli…",
+              "hash": "3f858e9eb25563b9",
+              "chunk_key": "3f858e9eb25563b9_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump's name must be removed from Kennedy Center, judge rules",
+              "summary": "named for President [John] Kennedy, and it cannot bear any other formal name or public memorial based on the Board's unilateral say-so,\" the judge wrote. \"Congress gave the Kennedy…",
+              "hash": "533f442634a0f85d",
+              "chunk_key": "533f442634a0f85d_c002",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Brent oil in May posts biggest monthly loss since 2020 on hopes for Iran war end",
+              "summary": "Bent oil posted its biggest monthly loss in six years as traders hoped that the U.S. and Iran are nearing a deal that will reopen the Strait of Hormuz.",
+              "hash": "716a16459faf3048",
+              "chunk_key": "716a16459faf3048_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Bondi defends handling of Epstein files to House panel",
+              "summary": "Former Attorney General Pam Bondi on Friday defended the Department of Justice 's handling of the release of files about notorious sex offender Jeffrey Epstein in her opening state…",
+              "hash": "11d87401ef76f8e9",
+              "chunk_key": "11d87401ef76f8e9_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Airlines urge Trump not to curb international flights in 'sanctuary cities' feud",
+              "summary": "Airline , hotel and other industry groups are urging the White House and top Trump administration officials to abandon a proposal that would cut off immigration processing at major…",
+              "hash": "5485fc2ecbb7a791",
+              "chunk_key": "5485fc2ecbb7a791_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "New '60 Minutes' head Nick Bilton aims to pivot show before ratings decline",
+              "summary": "Paramount Skydance's CBS News has hired Nick Bilton as the new executive producer of \"60 Minutes,\" ushering in a new era for the No. 1 rated news broadcast for the past 52 years.",
+              "hash": "7fc25f68a89ff06e",
+              "chunk_key": "7fc25f68a89ff06e_c000",
+              "article_date": "2026-05-27 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Piper Sandler says Strait of Hormuz to remain closed for months",
+              "summary": "Piper Sandler isn't buying the talk that an Iran deal is nearing, telling clients that the Strait of Hormuz will largely stay closed and oil will hit new highs. \"We think the Strai…",
+              "hash": "1484b25564485202",
+              "chunk_key": "1484b25564485202_c000",
+              "article_date": "2026-05-26 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
+              "summary": "Iran thinks it can get the Strait of Hormuz to its prewar status within one month of a peace deal with the U.S. Traders on prediction market platform Kalshi are more skeptical.",
+              "hash": "f5c9f7e06b391810",
+              "chunk_key": "f5c9f7e06b391810_c000",
+              "article_date": "2026-05-26 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "related_tickers_named": [
+            {
+              "ticker": "AAL",
+              "name": "American Airlines Group",
+              "count": 2
+            },
+            {
+              "ticker": "UAL",
+              "name": "United Airlines",
+              "count": 2
+            },
+            {
+              "ticker": "DIS",
+              "name": "Walt Disney",
+              "count": 1
+            },
+            {
+              "ticker": "COO",
+              "name": "Cooper",
+              "count": 1
+            },
+            {
+              "ticker": "NYT",
+              "name": "New York Times",
+              "count": 1
+            }
+          ],
+          "related_tickers_semantic": [
+            {
+              "ticker": "TMO",
+              "name": "Thermo Fisher Scientific",
+              "count": 0
+            },
+            {
+              "ticker": "WBD",
+              "name": "Warner Bros Discovery",
+              "count": 0
+            }
+          ],
+          "ticker_context": {
+            "DIS": [
+              "In Thursday's filing, Disney said it objected to the process and added that the FCC hadn't called for an early renewal in more than five decades. \"The order has no legitimate purpose,\" Disney said in the filing. \"There is no information that the application will reveal that the Commission could not obtain through other means.",
+              "He added that the next step, as soon as Friday, will be for the FCC to issue a public notice and begin a cycle where the public can petition to deny the renewal of Disney's licenses, opening the door for Disney to file an opposition. \"We have been signaling for a long time that we want Disney to take seriously our investigation, and it was only after we felt like — again, we provided them notice now that we thought their responses were disingenuous, that they were incomplete, that they were frankly nonresponsive to a number of questions — that we thought it was important to take this next step in our investigation to make sure that they're being fully responsive to our proceedings,\" Carr said.",
+              "In a Friday interview on CNBC's \"Squawk on the Street,\" FCC Chair Brendan Carr said the agency's focus remains on its investigations into Disney's DEI practices and that pulling up the license renewal deadline is not related to First Amendment matters. \"I understand Disney wants to make this about a lot of other things, and their PR machine has been in high gear, but we've been very clear about what this is: concerns about invidious forms of DEI discrimination,\" Carr told CNBC.",
+              "The agency said it began investigating Disney last March for possible violations of the Communications Act of 1934 and the FCC's rules regarding its prohibition on unlawful discrimination.",
+              "In late April, the FCC said it was launching an early review of the Disney-owned ABC stations years ahead of schedule following concerns around the company's diversity, equity and inclusion efforts.",
+              "Disney said in filings it was submitting the applications \"under protest in response to an unlawful, arbitrary, and unconstitutional order\" from the FCC.",
+              "Disney shot back at the Federal Communications Commission on Thursday as part of an early renewal process for broadcast licenses for eight of the company's stations."
+            ],
+            "COO": [
+              "Cooper also temporarily blocked the Washington, D.C., performing arts landmark, which in December had been renamed the \" Trump Kennedy Center, \" from being closed for two years for renovations at the behest of the president, who is chair of its Board of Trustees."
+            ],
+            "AAL": [
+              "Airlines for America, a trade association whose members include American Airlines , United Airlines and Delta Air Lines told White House officials this week that reducing Customs and Border Protection service at Newark, New Jersey's airport would \"create havoc\" for U.S. citizens, which make up the bulk of the 20,000 passengers flying in internationally to the airport, according to a document that was seen by CNBC."
+            ],
+            "UAL": [
+              "United CEO Scott Kirby was set to discuss the proposal with Homeland Security Secretary Markwayne Mullin to convey the disruptions the policies could cause to travelers, according to two people familiar with the previously unreported call who spoke on condition of anonymity to talk about a private conversation.",
+              "Airlines for America, a trade association whose members include American Airlines , United Airlines and Delta Air Lines told White House officials this week that reducing Customs and Border Protection service at Newark, New Jersey's airport would \"create havoc\" for U.S. citizens, which make up the bulk of the 20,000 passengers flying in internationally to the airport, according to a document that was seen by CNBC.",
+              "Airline , hotel and other industry groups are urging the White House and top Trump administration officials to abandon a proposal that would cut off immigration processing at major airports, including Newark Liberty International Airport in New Jersey, a United Airlines hub."
+            ],
+            "NYT": [
+              "The New York Times had its best year of sales in 1999.\" Bilton declined to reveal how he plans to disrupt the show, though he said it won't be a complete overhaul."
+            ]
+          },
+          "ticker_summary": {
+            "DIS": "The Federal Communications Commission (FCC) is investigating Disney's diversity, equity, and inclusion (DEI) practices, specifically regarding possible violations of the Communications Act of 1934 and the FCC's rules regarding prohibition on unlawful discrimination.",
+            "UAL": "United Airlines is a hub at Newark Liberty International Airport, which would be significantly impacted by proposed cuts to Customs and Border Protection service."
+          }
+        },
+        {
+          "cluster_id": 7,
+          "name": "U.S. Diplomacy in Asia-Pacific",
+          "count": 4,
+          "children": [
+            {
+              "name": "U.S. support for Taiwan reaffirmed by members of Congress",
+              "summary": "The U.S. Congress continues to have strong support for Taiwan even as it remains a focal point in relations with China , according to members of a delegation at the IISS Shangri-La…",
+              "hash": "5e6ea8f0cfea7f20",
+              "chunk_key": "5e6ea8f0cfea7f20_c000",
+              "article_date": "2026-05-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Hegseth praises Asian allies for 'burden-sharing,' calls out China",
+              "summary": "The U.S. aims to sustain equilibrium in the Asia-Pacific region and is working toward a situation where its allies are more capable, Secretary of War Pete Hegseth said, while also …",
+              "hash": "aa5696e58d65fc1e",
+              "chunk_key": "aa5696e58d65fc1e_c000",
+              "article_date": "2026-05-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "U.S. is right to ask allies to spend more on defense, Dutch deputy PM says",
+              "summary": "The U.S.' call for allies to step up defense spending is legitimate, according to Dutch deputy prime minster Dilan Yesilgoz-Zegerius.",
+              "hash": "466259ba3e53949d",
+              "chunk_key": "466259ba3e53949d_c000",
+              "article_date": "2026-05-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Vietnam President says Asia seeks 'responsible commitment' in region",
+              "summary": "The Asia Pacific region seeks neither the presence or absence of a major power, but instead \"responsible commitment\" from all parties, according to Vietnamese President To Lam.",
+              "hash": "34ec690b455ba25f",
+              "chunk_key": "34ec690b455ba25f_c000",
+              "article_date": "2026-05-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "related_tickers_named": [],
+          "related_tickers_semantic": []
+        },
+        {
+          "cluster_id": 8,
+          "name": "US-China Trade and Tech Tensions",
+          "count": 3,
+          "children": [
+            {
+              "name": "Three signs from APEC that the U.S. and China remain far apart on trade",
+              "summary": "Just over a week after the U.S. and Chinese presidents met in Beijing, the world's two largest economies are sending different messages about their priorities for Asia.",
+              "hash": "8f7f5d3f7f00ea69",
+              "chunk_key": "8f7f5d3f7f00ea69_c000",
+              "article_date": "2026-05-23 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+              "summary": "The U.S. is working hard to ensure American technology is used in Asia, a senior State Department official told CNBC, as China races to build alternatives that are often cheaper. \"…",
+              "hash": "77cb0765505014c4",
+              "chunk_key": "77cb0765505014c4_c000",
+              "article_date": "2026-05-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "China calls for APEC cooperation as commerce minister skips opening",
+              "summary": "Li Chenggang, China's international trade representative, opened the Asia-Pacific Economic Cooperation trade ministers' meeting on Friday with a call for regional economies to \"sen…",
+              "hash": "93cd9777ea2f7a72",
+              "chunk_key": "93cd9777ea2f7a72_c000",
+              "article_date": "2026-05-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "related_tickers_named": [
+            {
+              "ticker": "BA",
+              "name": "Boeing",
+              "count": 2
+            }
+          ],
+          "related_tickers_semantic": [],
+          "ticker_context": {
+            "BA": [
+              "There's little detail yet on how the two sides will move forward with implementing \"constructive strategic stability,\" beyond China's purchase of 200 Boeing airplanes and $17 billion annually in U.S. agricultural products through 2028.",
+              "China agreed to place its first major order of Boeing aircraft in nearly a decade, and buy $17 billion worth of U.S. agricultural products annually through 2028. \"Even though APEC isn't a venue for negotiations, it should play a guiding role in economic and trade discussions,\" Li said. \"For consensus that has already been achieved, [APEC] should accelerate implementation and see results early,\" he said."
+            ]
+          },
+          "ticker_summary": {
+            "BA": "Boeing has secured a major order of 200 aircraft from China, valued at approximately $23 billion, as part of a broader trade agreement."
+          }
+        }
+      ]
+    }
+  ]
+}
